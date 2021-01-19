@@ -8,4 +8,4 @@ Here, I have a linked list that stores the digits of an arbitrary long number an
 
 ## Extras
 Apart from the orthodox function, one can have *clear*, *obase*, and *ibase* as some other functions to make their life more easy.
-Notably, one also has a *last* function that stores the value of the last final answer of the evaluation and works same as "_"(underscore) in the python shell prompt
+Notably, one also has a *last* function that stores the value of the last final answer of the evaluation and works same as "_"(underscore) in the python shell prompt.
