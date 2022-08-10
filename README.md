@@ -1,4 +1,4 @@
-# BC -- An Arbitrary precision calculator
+# BashCal -- An Arbitrary precision calculator
 
 ## Overview
 This is an attempt to replicate the functionalities of the bc command on Unix based systems. In tthis we could do all the basic arithmetics like addition, substraction, multiplication and division. With all those basic functions, one can also have power and modulo function for their assistance.
